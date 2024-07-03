@@ -1,6 +1,8 @@
 # Natalie's Spam Email Classification Model 
 
-A model that classifies whether or not an email is spam or ham (not-spam)! Trained on my own emails, I learned the hard way how to download emails, preprocess data, and how to build and train a model.  
+A model that classifies whether or not an email is spam or ham (not-spam)! 
+
+Trained on my own emails, I learned the hard way how to download emails, preprocess data, and how to build and train a model.  
 
 ## What I learned: 
 * How to iterate, remove columns, and concatenate DataFrames
